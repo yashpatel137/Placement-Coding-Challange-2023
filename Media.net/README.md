@@ -1,3 +1,3 @@
 # Question 1
 
-![alt_tag]("Screenshot (10).png")
+![alt tag](https://github.com/yashpatel137/Placement-Coding-Challange-2023/blob/main/Media.net/Screenshot%20(10).png)
